@@ -1,6 +1,6 @@
 
 # COMP2011 Fall 2024 PA1: Ancient War Game Simulation
-A text-based ancient war game simulation for HKUST COMP2011 (Introduction to Programming), featuring warrior movement, close-range combat, and long-range shooting mechanics on a 2D grid.
+A text-based ancient war game simulation, featuring warrior movement, close-range combat, and long-range shooting mechanics on a 2D grid.
 
 ## 📁 Project Structure
 ```
