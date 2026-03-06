@@ -33,17 +33,3 @@ pa1_skeleton/
    ```bash
    ./pa1
    ```
-
-## Assignment Requirements
-- Complete the missing functions in `utils.c` as per the PA1 handout.
-- Follow HKUST COMP2011 coding style guidelines.
-- Ensure no memory leaks (test with `valgrind` if required).
-
-## Submission Notes
-- Due date: [Update with PA1 due date, e.g., "March 20, 2026, 23:59 HKT"]
-- Submission method: Upload completed code to Canvas/HKUST Moodle.
-- Academic Integrity: All code must be original work (plagiarism will result in penalties).
-
-## Contact
-- Course Instructor: [Instructor Name] ([instructor_email@ust.hk](mailto:instructor_email@ust.hk))
-- TA: [TA Name] ([ta_email@ust.hk](mailto:ta_email@ust.hk))
