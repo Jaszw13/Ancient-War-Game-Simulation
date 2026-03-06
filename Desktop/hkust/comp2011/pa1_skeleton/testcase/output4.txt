@@ -1,0 +1,36 @@
+The initial game information:
+== Warrior Letter (HP,FP,SP) ==
+A(100,50,30)
+B(100,50,30)
+C(100,50,30)
+D(100,50,30)
+Z(100,50,30)
+. . . . . 
+. . B . . 
+. A Z C . 
+. . D . . 
+. . . . . 
+Fail: If Z moves along the direction east by 2 step(s), it will hit another along the path. The position remains unchanged
+. . . . . 
+. . B . . 
+. A Z C . 
+. . D . . 
+. . . . . 
+Fail: If Z moves along the direction west by 2 step(s), it will hit another along the path. The position remains unchanged
+. . . . . 
+. . B . . 
+. A Z C . 
+. . D . . 
+. . . . . 
+Fail: If Z moves along the direction north by 2 step(s), it will hit another along the path. The position remains unchanged
+. . . . . 
+. . B . . 
+. A Z C . 
+. . D . . 
+. . . . . 
+Fail: If Z moves along the direction south by 2 step(s), it will hit another along the path. The position remains unchanged
+. . . . . 
+. . B . . 
+. A Z C . 
+. . D . . 
+. . . . . 

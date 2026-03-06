@@ -1,0 +1,24 @@
+3
+B 100 50 30
+C 80 60 20
+Z 5 70 10
+5 10
+Z.........
+..........
+.......B..
+..C.......
+..........
+Z moves southeast 1
+Z moves east 2
+Z moves north 1
+Z moves south 4
+Z moves south 3
+Z moves south 2
+Z fights northeast
+Z fights south
+Z fights south
+Z shoots northeast
+Z moves east 4
+Z shoots northeast
+B shoots southwest
+!

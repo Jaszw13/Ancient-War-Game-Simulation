@@ -1,0 +1,85 @@
+The initial game information:
+== Warrior Letter (HP,FP,SP) ==
+A(50,50,30)
+B(40,50,30)
+C(49,50,30)
+D(51,50,30)
+E(50,50,30)
+F(100,50,30)
+Z(100,50,30)
+. . D . . 
+. B C E . 
+. A Z . . 
+. . F . . 
+. . . . . 
+Success: Warrior Z fights F
+Warrior F health point is reduced from 100 to 50
+== Warrior Letter (HP,FP,SP) ==
+A(50,50,30)
+B(40,50,30)
+C(49,50,30)
+D(51,50,30)
+E(50,50,30)
+F(50,50,30)
+Z(100,50,30)
+Success: Warrior Z fights A
+Warrior A health point is reduced from 50 to 0
+Warrior A is being killed by Z
+. . D . . 
+. B C E . 
+. Z . . . 
+. . F . . 
+. . . . . 
+== Warrior Letter (HP,FP,SP) ==
+B(40,50,30)
+C(49,50,30)
+D(51,50,30)
+E(50,50,30)
+F(50,50,30)
+Z(100,50,30)
+Success: Warrior Z fights B
+Warrior B health point is reduced from 40 to 0
+Warrior B is being killed by Z
+. . D . . 
+. Z C E . 
+. . . . . 
+. . F . . 
+. . . . . 
+== Warrior Letter (HP,FP,SP) ==
+C(49,50,30)
+D(51,50,30)
+E(50,50,30)
+F(50,50,30)
+Z(100,50,30)
+Success: Warrior Z fights C
+Warrior C health point is reduced from 49 to 0
+Warrior C is being killed by Z
+. . D . . 
+. . Z E . 
+. . . . . 
+. . F . . 
+. . . . . 
+== Warrior Letter (HP,FP,SP) ==
+D(51,50,30)
+E(50,50,30)
+F(50,50,30)
+Z(100,50,30)
+Success: Warrior Z fights D
+Warrior D health point is reduced from 51 to 1
+== Warrior Letter (HP,FP,SP) ==
+D(1,50,30)
+E(50,50,30)
+F(50,50,30)
+Z(100,50,30)
+Success: Warrior Z fights E
+Warrior E health point is reduced from 50 to 0
+Warrior E is being killed by Z
+. . D . . 
+. . . Z . 
+. . . . . 
+. . F . . 
+. . . . . 
+== Warrior Letter (HP,FP,SP) ==
+D(1,50,30)
+F(50,50,30)
+Z(100,50,30)

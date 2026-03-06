@@ -1,0 +1,25 @@
+9
+Z 100 50 30
+A 30 50 30
+B 29 50 30
+C 28 50 30
+D 27 50 30
+E 31 50 30
+F 32 50 30
+G 33 50 30
+H 34 50 30
+5 10
+....A.....
+...H.B....
+..G.Z.C...
+...F.D....
+....E.....
+Z shoots north
+Z shoots northeast
+Z shoots east
+Z shoots southeast
+Z shoots south
+Z shoots southwest
+Z shoots west
+Z shoots northwest
+!

@@ -1,0 +1,84 @@
+The initial game information:
+== Warrior Letter (HP,FP,SP) ==
+B(100,50,30)
+C(80,60,20)
+Z(5,70,10)
+Z . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . B . . 
+. . C . . . . . . . 
+. . . . . . . . . . 
+Error: The direction southeast is invalid for the move action
+Success: Warrior Z moves along the direction east by 2 step(s)
+. . Z . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . B . . 
+. . C . . . . . . . 
+. . . . . . . . . . 
+Fail: If Z moves along the direction north by 1 step(s), it will move outside a boundary. The position remains unchanged
+. . Z . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . B . . 
+. . C . . . . . . . 
+. . . . . . . . . . 
+Fail: If Z moves along the direction south by 4 step(s), it will hit another along the path. The position remains unchanged
+. . Z . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . B . . 
+. . C . . . . . . . 
+. . . . . . . . . . 
+Fail: If Z moves along the direction south by 3 step(s), it will hit another along the path. The position remains unchanged
+. . Z . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . B . . 
+. . C . . . . . . . 
+. . . . . . . . . . 
+Success: Warrior Z moves along the direction south by 2 step(s)
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . Z . . . . B . . 
+. . C . . . . . . . 
+. . . . . . . . . . 
+Error: The direction northeast is invalid for the fight action
+Success: Warrior Z fights C
+Warrior C health point is reduced from 80 to 10
+== Warrior Letter (HP,FP,SP) ==
+B(100,50,30)
+C(10,60,20)
+Z(5,70,10)
+Success: Warrior Z fights C
+Warrior C health point is reduced from 10 to 0
+Warrior C is being killed by Z
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . B . . 
+. . Z . . . . . . . 
+. . . . . . . . . . 
+== Warrior Letter (HP,FP,SP) ==
+B(100,50,30)
+Z(5,70,10)
+Fail: Warrior Z cannot shoot any target
+== Warrior Letter (HP,FP,SP) ==
+B(100,50,30)
+Z(5,70,10)
+Success: Warrior Z moves along the direction east by 4 step(s)
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . B . . 
+. . . . . . Z . . . 
+. . . . . . . . . . 
+Success: Warrior Z shoots B
+Warrior B health point is reduced from 100 to 90
+== Warrior Letter (HP,FP,SP) ==
+B(90,50,30)
+Z(5,70,10)
+Success: Warrior B shoots Z
+Warrior Z health point is reduced from 5 to 0
+Warrior Z is being killed by B
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . B . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+== Warrior Letter (HP,FP,SP) ==
+B(90,50,30)

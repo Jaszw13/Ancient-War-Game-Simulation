@@ -1,0 +1,21 @@
+7
+Z 100 50 30
+A 50 50 30
+B 40 50 30
+C 49 50 30
+D 51 50 30
+E 50 50 30
+F 100 50 30
+5 5
+..D..
+.BCE.
+.AZ..
+..F..
+.....
+Z fights south
+Z fights west
+Z fights north
+Z fights east
+Z fights north
+Z fights east
+!

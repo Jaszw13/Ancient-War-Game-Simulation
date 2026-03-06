@@ -1,0 +1,68 @@
+The initial game information:
+== Warrior Letter (HP,FP,SP) ==
+A(100,50,30)
+B(100,50,30)
+C(100,50,30)
+D(100,50,30)
+Z(100,50,30)
+. . . . . 
+. . B . . 
+. A Z C . 
+. . D . . 
+. . . . . 
+Fail: Warrior Z cannot shoot any target
+== Warrior Letter (HP,FP,SP) ==
+A(100,50,30)
+B(100,50,30)
+C(100,50,30)
+D(100,50,30)
+Z(100,50,30)
+Fail: Warrior Z cannot shoot any target
+== Warrior Letter (HP,FP,SP) ==
+A(100,50,30)
+B(100,50,30)
+C(100,50,30)
+D(100,50,30)
+Z(100,50,30)
+Fail: Warrior Z cannot shoot any target
+== Warrior Letter (HP,FP,SP) ==
+A(100,50,30)
+B(100,50,30)
+C(100,50,30)
+D(100,50,30)
+Z(100,50,30)
+Fail: Warrior Z cannot shoot any target
+== Warrior Letter (HP,FP,SP) ==
+A(100,50,30)
+B(100,50,30)
+C(100,50,30)
+D(100,50,30)
+Z(100,50,30)
+Fail: Warrior Z cannot shoot any target
+== Warrior Letter (HP,FP,SP) ==
+A(100,50,30)
+B(100,50,30)
+C(100,50,30)
+D(100,50,30)
+Z(100,50,30)
+Fail: Warrior Z cannot shoot any target
+== Warrior Letter (HP,FP,SP) ==
+A(100,50,30)
+B(100,50,30)
+C(100,50,30)
+D(100,50,30)
+Z(100,50,30)
+Fail: Warrior Z cannot shoot any target
+== Warrior Letter (HP,FP,SP) ==
+A(100,50,30)
+B(100,50,30)
+C(100,50,30)
+D(100,50,30)
+Z(100,50,30)
+Fail: Warrior Z cannot shoot any target
+== Warrior Letter (HP,FP,SP) ==
+A(100,50,30)
+B(100,50,30)
+C(100,50,30)
+D(100,50,30)
+Z(100,50,30)

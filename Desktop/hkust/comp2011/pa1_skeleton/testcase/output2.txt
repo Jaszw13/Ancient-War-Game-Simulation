@@ -1,0 +1,32 @@
+The initial game information:
+== Warrior Letter (HP,FP,SP) ==
+B(100,50,30)
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . B . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+Success: Warrior B moves along the direction east by 1 step(s)
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . B . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+Success: Warrior B moves along the direction north by 2 step(s)
+. . . . . B . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+Success: Warrior B moves along the direction west by 3 step(s)
+. . B . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+Success: Warrior B moves along the direction south by 4 step(s)
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . B . . . . . . . 

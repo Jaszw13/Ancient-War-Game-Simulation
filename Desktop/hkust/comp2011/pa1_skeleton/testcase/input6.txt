@@ -1,0 +1,18 @@
+2
+A 100 50 30
+B 100 50 30
+5 10
+..........
+..........
+.....A.B..
+..........
+..........
+A fights northeast
+A fights northwest
+A fights southeast
+A fights northwest
+B fights north
+B fights east
+B fights west
+B fights south
+!

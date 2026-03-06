@@ -1,0 +1,110 @@
+The initial game information:
+== Warrior Letter (HP,FP,SP) ==
+A(30,50,30)
+B(29,50,30)
+C(28,50,30)
+D(27,50,30)
+E(31,50,30)
+F(32,50,30)
+G(33,50,30)
+H(34,50,30)
+Z(100,50,30)
+. . . . A . . . . . 
+. . . H . B . . . . 
+. . G . Z . C . . . 
+. . . F . D . . . . 
+. . . . E . . . . . 
+Success: Warrior Z shoots A
+Warrior A health point is reduced from 30 to 0
+Warrior A is being killed by Z
+. . . . . . . . . . 
+. . . H . B . . . . 
+. . G . Z . C . . . 
+. . . F . D . . . . 
+. . . . E . . . . . 
+== Warrior Letter (HP,FP,SP) ==
+B(29,50,30)
+C(28,50,30)
+D(27,50,30)
+E(31,50,30)
+F(32,50,30)
+G(33,50,30)
+H(34,50,30)
+Z(100,50,30)
+Success: Warrior Z shoots B
+Warrior B health point is reduced from 29 to 0
+Warrior B is being killed by Z
+. . . . . . . . . . 
+. . . H . . . . . . 
+. . G . Z . C . . . 
+. . . F . D . . . . 
+. . . . E . . . . . 
+== Warrior Letter (HP,FP,SP) ==
+C(28,50,30)
+D(27,50,30)
+E(31,50,30)
+F(32,50,30)
+G(33,50,30)
+H(34,50,30)
+Z(100,50,30)
+Success: Warrior Z shoots C
+Warrior C health point is reduced from 28 to 0
+Warrior C is being killed by Z
+. . . . . . . . . . 
+. . . H . . . . . . 
+. . G . Z . . . . . 
+. . . F . D . . . . 
+. . . . E . . . . . 
+== Warrior Letter (HP,FP,SP) ==
+D(27,50,30)
+E(31,50,30)
+F(32,50,30)
+G(33,50,30)
+H(34,50,30)
+Z(100,50,30)
+Success: Warrior Z shoots D
+Warrior D health point is reduced from 27 to 0
+Warrior D is being killed by Z
+. . . . . . . . . . 
+. . . H . . . . . . 
+. . G . Z . . . . . 
+. . . F . . . . . . 
+. . . . E . . . . . 
+== Warrior Letter (HP,FP,SP) ==
+E(31,50,30)
+F(32,50,30)
+G(33,50,30)
+H(34,50,30)
+Z(100,50,30)
+Success: Warrior Z shoots E
+Warrior E health point is reduced from 31 to 1
+== Warrior Letter (HP,FP,SP) ==
+E(1,50,30)
+F(32,50,30)
+G(33,50,30)
+H(34,50,30)
+Z(100,50,30)
+Success: Warrior Z shoots F
+Warrior F health point is reduced from 32 to 2
+== Warrior Letter (HP,FP,SP) ==
+E(1,50,30)
+F(2,50,30)
+G(33,50,30)
+H(34,50,30)
+Z(100,50,30)
+Success: Warrior Z shoots G
+Warrior G health point is reduced from 33 to 3
+== Warrior Letter (HP,FP,SP) ==
+E(1,50,30)
+F(2,50,30)
+G(3,50,30)
+H(34,50,30)
+Z(100,50,30)
+Success: Warrior Z shoots H
+Warrior H health point is reduced from 34 to 4
+== Warrior Letter (HP,FP,SP) ==
+E(1,50,30)
+F(2,50,30)
+G(3,50,30)
+H(4,50,30)
+Z(100,50,30)

@@ -1,0 +1,29 @@
+The initial game information:
+== Warrior Letter (HP,FP,SP) ==
+A(100,50,30)
+B(100,50,30)
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . A . B . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+Error: The direction northeast is invalid for the fight action
+Error: The direction northwest is invalid for the fight action
+Error: The direction southeast is invalid for the fight action
+Error: The direction northwest is invalid for the fight action
+Fail: Warrior B cannot fight any target
+== Warrior Letter (HP,FP,SP) ==
+A(100,50,30)
+B(100,50,30)
+Fail: Warrior B cannot fight any target
+== Warrior Letter (HP,FP,SP) ==
+A(100,50,30)
+B(100,50,30)
+Fail: Warrior B cannot fight any target
+== Warrior Letter (HP,FP,SP) ==
+A(100,50,30)
+B(100,50,30)
+Fail: Warrior B cannot fight any target
+== Warrior Letter (HP,FP,SP) ==
+A(100,50,30)
+B(100,50,30)

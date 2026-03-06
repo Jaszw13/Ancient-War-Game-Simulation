@@ -1,0 +1,17 @@
+5
+Z 100 50 30
+A 100 50 30
+B 100 50 30
+C 100 50 30
+D 100 50 30
+5 5
+.....
+..B..
+.AZC.
+..D..
+.....
+Z moves east 2
+Z moves west 2
+Z moves north 2
+Z moves south 2
+!
